@@ -1,1 +1,5 @@
-Tạo file: .gitignore
+*.avi
+*.iml
+*.ide
+!abc/example// không loại bỏ file này
+exports/
